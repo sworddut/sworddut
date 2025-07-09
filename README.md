@@ -5,7 +5,7 @@
 
 <!-- 1. 超酷的开场动图！ -->
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNxOXk4YmcyenNxeWl2eDZoNTZqejFzMXRwYWIzN2twcDlnMHlkbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.webp" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNxOXk4YmcyenNxeWl2eDZoNTZqejFzMXRwYWIzN2twcDlnMHlkbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.webp"  height="300"/>
 </div>
 
 <!-- 2. 打个招呼！ -->
